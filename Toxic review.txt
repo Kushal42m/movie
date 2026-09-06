@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-OK OK
-=======
-hi manu
-https://github.com/Kushal42m/movie.git
->>>>>>> 6d4ea654efae13ee60c5822b4655fa63687d6c91
 bonda
